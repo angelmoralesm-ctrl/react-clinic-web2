@@ -1,0 +1,116 @@
+.line-div {
+    position: absolute;
+    bottom: 598.5px;
+    left: 714.46px;
+    border-top: 3px solid var(--color-teal);
+    box-sizing: border-box;
+    width: 64.07px;
+    height: 3px;
+  }
+  .noise-texture1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 599px;
+    object-fit: cover;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 98px;
+    left: 332px;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro-100);
+    width: 180px;
+    height: 180px;
+  }
+  .frame-child1,
+  .frame-child2 {
+    position: absolute;
+    top: 323px;
+    left: -61px;
+    border-radius: var(--br-49xl);
+    background-color: var(--color-teal);
+    width: 673px;
+    height: 171px;
+  }
+  .frame-child2 {
+    top: 443.38px;
+    left: 444.61px;
+    border-radius: var(--br-6xl);
+    background-color: var(--color-gainsboro-200);
+    width: 421px;
+    height: 111.09px;
+    transform: rotate(-160deg);
+    transform-origin: 0 0;
+  }
+  .belleza {
+    color: var(--color-teal);
+  }
+  .resalta-tu-belleza-container {
+    position: absolute;
+    top: 156px;
+    left: 602px;
+    letter-spacing: 0.1em;
+    line-height: 130.6%;
+    display: inline-block;
+    width: 687px;
+    height: 267px;
+  }
+  .chat-icon1,
+  .image-1-icon {
+    position: absolute;
+    object-fit: cover;
+  }
+  .image-1-icon {
+    top: 86px;
+    left: 0;
+    width: 612px;
+    height: 408px;
+  }
+  .chat-icon1 {
+    top: calc(50% + 185px);
+    left: calc(50% + 518px);
+    width: 108px;
+    height: 108px;
+    mix-blend-mode: normal;
+  }
+  .frame-child3 {
+    position: absolute;
+    top: 407px;
+    left: 840px;
+    border-radius: var(--br-3xs);
+    width: 212px;
+    height: 42px;
+  }
+  .revisa-nuestras-ofertas1 {
+    position: absolute;
+    top: 416px;
+    left: 850px;
+    font-size: var(--font-size-base);
+    line-height: 130.6%;
+    display: inline-block;
+    color: var(--color-white);
+    width: 191px;
+    height: 27px;
+  }
+  .line-parent {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    background-color: var(--color-whitesmoke);
+    width: 1280px;
+    height: 598px;
+    overflow: hidden;
+    mix-blend-mode: normal;
+  }
+  .frame-parent {
+    position: relative;
+    width: 1280px;
+    height: 599px;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--color-black);
+    font-family: var(--font-helvetica);
+  }
+  

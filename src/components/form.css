@@ -1,0 +1,15 @@
+#contenedor {
+    width: 100vw; /* Ancho del contenedor */
+    position: relative;
+}
+
+#contenedor_izq {
+    width: 50%; /* Ancho de la mitad */
+}
+
+#contenedor_der {
+    width: 50%; /* Ancho de la mitad */
+    position: absolute;
+    top: 0;
+    right: 0;
+}
